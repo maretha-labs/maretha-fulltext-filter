@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<component name="io.maretha.fulltext.FulltextFilterComponent" version="1.0">
+  <implementation class="io.maretha.fulltext.FulltextFilterComponent"/>
+</component>

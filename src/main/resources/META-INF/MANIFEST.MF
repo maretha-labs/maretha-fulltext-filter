@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: maretha-fulltext-filter
+Bundle-SymbolicName: io.maretha.fulltext;singleton=true
+Bundle-Version: 1.0.0
+Bundle-Vendor: Maretha
+Nuxeo-Component: OSGI-INF/fulltext-filter-component.xml
